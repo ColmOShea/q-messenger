@@ -974,7 +974,7 @@
     word-wrap: break-word;
 }
 
-.qmessenger .fixed-card {
+.qmessenger.fixed-card {
     position: fixed;
     bottom: 0px;
     left: 100px;
