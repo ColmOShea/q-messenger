@@ -27717,3 +27717,10 @@
     overflow-wrap: break-word;
     word-wrap: break-word;
 }
+
+.fixed-card {
+    position: fixed;
+    bottom: 0px;
+    left: 100px;
+    width: 380px;
+}
