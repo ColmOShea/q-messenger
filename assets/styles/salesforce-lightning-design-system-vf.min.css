@@ -973,3 +973,10 @@
     overflow-wrap: break-word;
     word-wrap: break-word;
 }
+
+.qmessenger .fixed-card {
+    position: fixed;
+    bottom: 0px;
+    left: 100px;
+    width: 350px;
+}
